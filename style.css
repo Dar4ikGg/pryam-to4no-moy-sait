@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+header b{
+    color: white;
+}
+header a{
+    color: white
+}
+header {
+    background-color: DarkBlue;
+    border-radius: 10px;
+}
+header img
+{ 
+  margin: 10px;  
+}
+h1 {
+    color: teal;
+    border: 3px solid BlueViolet;
+    border-radius: 25px;
+    text-align: center;
+}
+footer p{
+    background-color: limegreen;
+    padding: 5px;
+
+}
+nav a{
+    border: 3px solid forestgreen;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 10px;
+    padding: 3px;
+}
+nav {text-align: center;
+    margin: 10px;
+}
+.pr  {
+    background-color: Crimson ;
+    padding: 5px;
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+}
+h2 {
+    color: navy;
+}
+.im {
+    border: 2px solid lightblue;
+    border-radius: 25px;
+}
+.con {
+    text-decoration: none;
+    border: 3px solid darkblue;
+    padding: 5px;
+}
+.i {
+    border-radius: 10px;
+
+}
